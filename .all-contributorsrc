@@ -4792,6 +4792,61 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "yutingzhao1991",
+      "name": "愚指导",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1061968?v=4",
+      "profile": "https://yutingzhao1991.github.io/",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "rayjasson98",
+      "name": "Ray Jasson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/48130098?v=4",
+      "profile": "https://github.com/rayjasson98",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "calvinsomething",
+      "name": "Calvin Storoschuk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/73667022?v=4",
+      "profile": "https://calvinsomething.com",
+      "contributions": [
+        "bug",
+        "code"
+      ]
+    },
+    {
+      "login": "Clashinm",
+      "name": "Clashinm",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89336570?v=4",
+      "profile": "https://github.com/Clashinm",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "james-prysm",
+      "name": "james-prysm",
+      "avatar_url": "https://avatars.githubusercontent.com/u/90280386?v=4",
+      "profile": "https://github.com/james-prysm",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "wsbuck",
+      "name": "William Buck",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22014035?v=4",
+      "profile": "http://williambuck.dev",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
