@@ -4847,6 +4847,54 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "metalocal",
+      "name": "metalocal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/82745711?v=4",
+      "profile": "https://github.com/metalocal",
+      "contributions": [
+        "bug",
+        "doc"
+      ]
+    },
+    {
+      "login": "himanshu3w",
+      "name": "Himanshu Singh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/63382395?v=4",
+      "profile": "https://github.com/himanshu3w",
+      "contributions": [
+        "bug",
+        "doc"
+      ]
+    },
+    {
+      "login": "abcoathup",
+      "name": "Andrew B Coathup",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28278242?v=4",
+      "profile": "https://github.com/abcoathup",
+      "contributions": [
+        "doc",
+        "bug"
+      ]
+    },
+    {
+      "login": "andyGallagher",
+      "name": "Andrew Gallagher",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43940590?v=4",
+      "profile": "https://www.andrewgallagher-portfolio.com/",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "phatngluu",
+      "name": "Phat Nguyen Luu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44693107?v=4",
+      "profile": "https://github.com/phatngluu",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
